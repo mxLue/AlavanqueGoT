@@ -1,0 +1,28 @@
+@font-face {
+ 	font-family: got;
+    src: url('Game of Thrones.ttf')
+}
+
+.divt{
+	 	 text-align: center;
+	border: double;
+	 font-family: got;
+  	border-style: solid;
+	 border-color: white;
+	 font-size: large;
+	 width: 568px;
+ 	 height: 100px;
+
+}
+
+.divTime{
+	
+	 font-family: got;
+
+
+}
+
+body{
+	background-image: url("https://i.imgur.com/1iCnpaX.jpg");
+	left: 100px
+}
